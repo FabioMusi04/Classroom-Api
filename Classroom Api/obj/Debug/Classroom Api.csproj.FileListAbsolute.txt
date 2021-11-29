@@ -1,0 +1,34 @@
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Classroom Api.exe.config
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Classroom Api.exe
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Classroom Api.pdb
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.Auth.dll
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.Classroom.v1.dll
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.Core.dll
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.dll
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Newtonsoft.Json.dll
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.pdb
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.xml
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.Auth.pdb
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.Auth.xml
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.Classroom.v1.pdb
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.Classroom.v1.xml
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.Core.pdb
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Google.Apis.Core.xml
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\Newtonsoft.Json.xml
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\obj\Debug\Classroom_Api.Form1.resources
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\obj\Debug\Classroom_Api.Properties.Resources.resources
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\obj\Debug\Classroom Api.csproj.GenerateResource.cache
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\obj\Debug\Classroom Api.csproj.CoreCompileInputs.cache
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\obj\Debug\Classroom Api.csproj.CopyComplete
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\obj\Debug\Classroom Api.exe
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\obj\Debug\Classroom Api.pdb
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\obj\Debug\Classroom Api.csproj.AssemblyReference.cache
+D:\Scuola\Visual studio\c# progetti\Classroom Api\Classroom Api\obj\Debug\Classroom Api.csproj.SuggestedBindingRedirects.cache
